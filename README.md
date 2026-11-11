@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Nandini! 👋
 
-<!--
-**Vnandinni/Vnandinni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student at Mount Royal University, Calgary, Canada.
 
-Here are some ideas to get you started:
+💻 Interested in software development, cybersecurity, and information security.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔍 Currently exploring cybersecurity fundamentals, networking, and defensive security.
+
+## 🛠️ Technical Skills
+
+- **Languages:** Python, Java, C++, JavaScript, Assembly
+- **Database:** SQL
+- **Tools:** Git and GitHub
+
+## 🔐 Areas of Interest
+
+- Network Security
+- Security Operations
+- Threat Detection
+- Ethical Hacking
+
+## 🚀 Current Projects
+
+**Personal Finance Analytics Dashboard**
+- Working with financial datasets.
+- Exploring data analysis using Python and SQL.
+
+## 🌱 Currently Learning
+
+Cybersecurity fundamentals, networking, and practical technical problem-solving.
+
+## 📫 Connect With Me
+
+- GitHub: [@Vnandinni](https://github.com/Vnandinni)
+- LinkedIn: www.linkedin.com/in/nandini-verma-a3aa162a7
+  
